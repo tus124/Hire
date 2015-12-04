@@ -277,7 +277,7 @@
 				A96090391C0E5C7300CC241A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		A960903A1C0E5C7300CC241A /* Build configuration list for PBXNativeTarget "Hire" */ = {
 			isa = XCConfigurationList;
@@ -286,6 +286,7 @@
 				A960903C1C0E5C7300CC241A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
